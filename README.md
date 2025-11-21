@@ -1,11 +1,18 @@
+
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Svelte+%2B+JavaScript+Developer;UI%2FUX+Enthusiast;Always+learning+new+things&center=true&width=650&height=60" alt="typing-svg" /></a>
+</p>
+<p align="center">
+  <img src="./demo2.gif" width="370" height="290" />
+</p>
 ### Hi there 👋 It's me German Arockia Roy  
-**Frontend Developer (Svelte | JavaScript)**  
-Fresher 🚀
+**Frontend Developer (Svelte | JavaScript | Vue)**  
+
 
 🔭 Here's my portfolio  
-👉 *Add your portfolio link here*
+👉 *(https://germansportfolio.lovable.app/)*
 
-🌱 I’m currently learning **DSA & Advanced Svelte Patterns**
+🌱 I’m currently learning **DSA & Advanced Svelte Patterns & python**
 
 🕸️ Passionate about building clean UIs and modern web experiences
 
@@ -14,27 +21,28 @@ Fresher 🚀
 📄 Fun fact: I love designing smooth UI and exploring animation ideas ✨
 
 ---
-
 ## I code in  
-<img height="50" width="50" src="https://img.icons8.com/color/48/svelte.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/vue-js.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
 
 
 ---
 ## IDE and Tools I Use  
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png" />
-<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/chrome.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/netlify.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" />
+
+
 
 
 ---
@@ -75,17 +83,17 @@ A complete CRUD interface with:
 
 ---
 
-### **4. Svelte UI Components Library (Personal)**  
+<!-- ### **4. Svelte UI Components Library (Personal)**  
 Reusable UI elements: buttons, inputs, dropdowns, modals, and dynamic table grids designed for production apps.
 
 **Tech Stack:** Svelte • Tailwind • TypeScript
 
----
+--- -->
 
 ## 📫 Connect With Me  
-- LinkedIn: *your link*  
-- Email: *your email*  
-- GitHub: **@yourusername**
+- LinkedIn: *https://www.linkedin.com/in/german-arockia-roy-b59b60245/*  
+- Email: *germanarockiaroy08@gmail.com*  
+- GitHub: **@rags08**
 
 ---
 
