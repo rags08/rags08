@@ -21,7 +21,7 @@
 📄 Fun fact: I love designing smooth UI and exploring animation ideas ✨
 
 ---
-## I code in  
+<h2 style="font-weight:600; margin-bottom:10px; border:none !important;">I code in</h2>
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -36,7 +36,8 @@
 
 
 ---
-## IDE and Tools I Use  
+<h2 style="font-weight:600; margin-bottom:10px; border:none !important;">IDE and Tools I Use </h2>
+
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
